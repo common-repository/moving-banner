@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Moving banner 1.0\n"
+"POT-Creation-Date: 2018-08-18 19:09+0200\n"
+"PO-Revision-Date: 2018-08-18 19:12+0200\n"
+"Last-Translator: \n"
+"Language-Team: https://rafalstepien.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: class.moving-banner-admin.php\n"
+"X-Poedit-SearchPath-1: class.moving-banner-front.php\n"
+"X-Poedit-SearchPath-2: class.moving-banner.php\n"
+"X-Poedit-SearchPath-3: moving-banner.php\n"
+
+#: class.moving-banner-admin.php:30
+msgid "Configuration"
+msgstr "Konfiguracja"
+
+#: class.moving-banner-admin.php:34
+msgid "Bar height"
+msgstr "Wysokosć baneru"
+
+#: class.moving-banner-admin.php:39
+msgid "Enable/disable"
+msgstr "Włącz/Wyłącz"
+
+#: class.moving-banner-admin.php:44
+msgid "Target link"
+msgstr "Link do reklamy"
+
+#: class.moving-banner-admin.php:49
+msgid "Animation speed (in seconds, e.g 1 fast, 10 slow, 30 super slow)"
+msgstr ""
+"Szybkość animacji (w sekundach, np. 1 - szybko, 10 wolno, 30 super wolno)"
+
+#: class.moving-banner-admin.php:54
+msgid "Animation direction"
+msgstr "Kierunek animacji"
+
+#: class.moving-banner-admin.php:59
+msgid "Start datetime"
+msgstr "Początek wyświetlania"
+
+#: class.moving-banner-admin.php:64
+msgid "End datetime"
+msgstr "Koniec wyświetlania"
+
+#: class.moving-banner-admin.php:76
+msgid "Moving Banner Settings"
+msgstr "Ustawienia Moving Banner"
+
+#: class.moving-banner-admin.php:83
+msgid "Provide your own custom settings for the moving banner plugin"
+msgstr "Wprowadź własne ustawienia do pluginu"
+
+#: class.moving-banner-admin.php:120 class.moving-banner-admin.php:131
+msgid "Left"
+msgstr "Lewy"
+
+#: class.moving-banner-admin.php:124 class.moving-banner-admin.php:135
+msgid "Right"
+msgstr "Prawy"
+
+#: class.moving-banner-admin.php:174
+msgid "http://link-to-advert.com"
+msgstr "http://link-do-reklamy.pl"
+
+#: class.moving-banner-admin.php:202
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nie masz uprawnień do tej strony."
+
+#: class.moving-banner-admin.php:215
+msgid "Add banner"
+msgstr "Dodaj baner"
+
+#: class.moving-banner-admin.php:220
+msgid "Save"
+msgstr "Zapisz"
+
+#: class.moving-banner-admin.php:283
+msgid "Successfully saved"
+msgstr "Zapisano poprawnie"
+
+#: class.moving-banner-admin.php:306
+msgid "Unable to save the data, you have to provide a valid banner image."
+msgstr ""
+"Błąd podczas zapisu parametrów, grafika banera nie została ustawiona "
+"poprawnie."
+
+#: class.moving-banner-admin.php:310
+msgid "Unable to save the data, you have to provide a valid banner height."
+msgstr ""
+"Błąd podczas zapisu parametrów, wysokość banera nie została ustawiona "
+"poprawnie."
+
+#: class.moving-banner-admin.php:314
+msgid "Unable to save the data, you have to provide a valid banner link."
+msgstr ""
+"Błąd podczas zapisu parametrów, link banera nie została ustawiona poprawnie."
+
+#: class.moving-banner-admin.php:320
+msgid ""
+"Unable to save the data, you have to provide a valid banner animation speed. "
+"(more than 0)"
+msgstr ""
+"Błąd podczas zapisu parametrów, prędkość animacji nie została ustawiona "
+"poprawnie. (powinna być większa od 0)"
+
+#: class.moving-banner-admin.php:324
+msgid "Unable to save the data, you have to provide a valid start date time."
+msgstr ""
+"Błąd podczas zapisu parametrów, początek wyświetlania nie został ustawiony "
+"poprawnie."
+
+#: class.moving-banner-admin.php:328
+msgid "Unable to save the data, you have to provide a valid end date time."
+msgstr ""
+"Błąd podczas zapisu parametrów, koniec wyświetlania nie został ustawiony "
+"poprawnie."

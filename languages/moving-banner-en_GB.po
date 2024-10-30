@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-08-18 18:58+0200\n"
+"PO-Revision-Date: 2018-08-18 18:59+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: class.moving-banner-admin.php\n"
+"X-Poedit-SearchPath-1: class.moving-banner-front.php\n"
+"X-Poedit-SearchPath-2: class.moving-banner.php\n"
+"X-Poedit-SearchPath-3: moving-banner.php\n"
+
+#: class.moving-banner-admin.php:30
+msgid "Configuration"
+msgstr "Configuration"
+
+#: class.moving-banner-admin.php:34
+msgid "Bar height"
+msgstr "Bar height"
+
+#: class.moving-banner-admin.php:39
+msgid "Enable/disable"
+msgstr "Enable/disable"
+
+#: class.moving-banner-admin.php:44
+msgid "Target link"
+msgstr "Target link"
+
+#: class.moving-banner-admin.php:49
+msgid "Animation speed (in seconds, e.g 1 fast, 10 slow, 30 super slow)"
+msgstr "Animation speed (in seconds, e.g 1 fast, 10 slow, 30 super slow)"
+
+#: class.moving-banner-admin.php:54
+msgid "Animation direction"
+msgstr "Animation direction"
+
+#: class.moving-banner-admin.php:59
+msgid "Start datetime"
+msgstr "Start datetime"
+
+#: class.moving-banner-admin.php:64
+msgid "End datetime"
+msgstr "End datetime"
+
+#: class.moving-banner-admin.php:76
+msgid "Moving Banner Settings"
+msgstr "Moving Banner Settings"
+
+#: class.moving-banner-admin.php:83
+msgid "Provide your own custom settings for the moving banner plugin"
+msgstr "Provide your own custom settings for the moving banner plugin"
+
+#: class.moving-banner-admin.php:120 class.moving-banner-admin.php:131
+msgid "Left"
+msgstr "Left"
+
+#: class.moving-banner-admin.php:124 class.moving-banner-admin.php:135
+msgid "Right"
+msgstr "Right"
+
+#: class.moving-banner-admin.php:174
+msgid "http://link-to-advert.com"
+msgstr "http://link-to-advert.com"
+
+#: class.moving-banner-admin.php:202
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#: class.moving-banner-admin.php:215
+msgid "Add banner"
+msgstr "Add banner"
+
+#: class.moving-banner-admin.php:220
+msgid "Save"
+msgstr "Save"
+
+#: class.moving-banner-admin.php:283
+msgid "Successfully saved"
+msgstr "Successfully saved"
+
+#: class.moving-banner-admin.php:306
+msgid "Unable to save the data, you have to provide a valid banner image."
+msgstr "Unable to save the data, you have to provide a valid banner image."
+
+#: class.moving-banner-admin.php:310
+msgid "Unable to save the data, you have to provide a valid banner height."
+msgstr "Unable to save the data, you have to provide a valid banner height."
+
+#: class.moving-banner-admin.php:314
+msgid "Unable to save the data, you have to provide a valid banner link."
+msgstr "Unable to save the data, you have to provide a valid banner link."
+
+#: class.moving-banner-admin.php:320
+msgid ""
+"Unable to save the data, you have to provide a valid banner animation speed. "
+"(more than 0)"
+msgstr ""
+"Unable to save the data, you have to provide a valid banner animation speed "
+"(more than 0)"
+
+#: class.moving-banner-admin.php:324
+msgid "Unable to save the data, you have to provide a valid start date time."
+msgstr "Unable to save the data, you have to provide a valid start date time."
+
+#: class.moving-banner-admin.php:328
+msgid "Unable to save the data, you have to provide a valid end date time."
+msgstr "Unable to save the data, you have to provide a valid end date time."
